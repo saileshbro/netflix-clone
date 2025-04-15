@@ -6,7 +6,7 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^15.0.7",
     "@testing-library/user-event": "^14.6.0",
-    "firebase": "^11.3.0",
+    "firebase": "^11.5.0",
     "fuse.js": "^7.1.0",
     "normalize.css": "^8.0.1",
     "prop-types": "^15.8.1",
